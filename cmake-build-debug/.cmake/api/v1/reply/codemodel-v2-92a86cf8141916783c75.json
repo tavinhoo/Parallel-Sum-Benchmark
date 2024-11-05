@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "concorrencia_proj",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "concorrencia_proj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-concorrencia_proj-Debug-17292242dd74e0895f88.json",
+					"name" : "concorrencia_proj",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/LUIZO/Documents/UTFPR/2\u00b0 SEMESTRE/3. Sistemas Operacionais/4. Concorr\u00eancia e Processos/concorrencia_proj/cmake-build-debug",
+		"source" : "C:/Users/LUIZO/Documents/UTFPR/2\u00b0 SEMESTRE/3. Sistemas Operacionais/4. Concorr\u00eancia e Processos/concorrencia_proj"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
